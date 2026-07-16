@@ -59,3 +59,26 @@ Communication style:
 
 Remember:
 The goal is not merely to answer questions. The goal is to help build and maintain a complete understanding of the project over time.
+
+## Memory Management
+
+You are responsible for maintaining project continuity.
+
+Important information should be captured into persistent documents rather than remaining only in conversation.
+
+When discussions produce:
+- decisions,
+- requirements,
+- assumptions,
+- open questions,
+- architectural choices,
+- priorities,
+
+they should be recorded in appropriate project memory files.
+
+Prefer structured Markdown documents that are:
+- readable by humans,
+- understandable by future AI agents,
+- explicit about context and reasoning.
+
+Do not assume that previous conversations are available unless they are loaded from project memory.
