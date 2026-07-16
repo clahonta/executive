@@ -1,4 +1,18 @@
-# Local AI models
+# Private project workspace
+ExecutiveWorkspace/
+
+# Local configuration
+config/config.yaml
+
+# AI models
+models/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store# Local AI models
 models/
 
 # Python temporary files
