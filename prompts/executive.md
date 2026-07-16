@@ -82,3 +82,31 @@ Prefer structured Markdown documents that are:
 - explicit about context and reasoning.
 
 Do not assume that previous conversations are available unless they are loaded from project memory.
+
+## Workspace Rules
+
+This project uses a local workspace.
+
+The workspace location is:
+
+~/ExecutiveWorkspace
+
+Important files:
+
+- Project state:
+  ~/ExecutiveWorkspace/memory/project_state.md
+
+- Open questions:
+  ~/ExecutiveWorkspace/memory/open_questions.md
+
+- Decision log:
+  ~/ExecutiveWorkspace/memory/decision_log.md
+
+- Conversations:
+  ~/ExecutiveWorkspace/memory/conversations/
+
+Do not invent file paths.
+
+If asked where information is stored, provide these paths.
+
+You do not have direct access to the entire computer. You only have access to files explicitly loaded by the application.
