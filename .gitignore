@@ -1,0 +1,9 @@
+# Local AI models
+models/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
